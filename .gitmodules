@@ -1,0 +1,15 @@
+[submodule "MVCart-eCommerce-MVC"]
+	path = MVCart-eCommerce-MVC
+	url = https://github.com/mohdali300/MVCart-eCommerce-MVC
+[submodule "DominoGame-Csharp-WinForms"]
+	path = DominoGame-Csharp-WinForms
+	url = https://github.com/mohdali300/DominoGame-Csharp-WinForms
+[submodule "StudentAffairsSystem-ES6-ITI"]
+	path = StudentAffairsSystem-ES6-ITI
+	url = https://github.com/mohdali300/StudentAffairsSystem-ES6-ITI
+[submodule "OnlineExaminationSystem-ITI"]
+	path = OnlineExaminationSystem-ITI
+	url = https://github.com/mohdali300/OnlineExaminationSystem-ITI
+[submodule "JavaScript-BasicsProject-ITI"]
+	path = JavaScript-BasicsProject-ITI
+	url = https://github.com/mohdali300/JavaScript-BasicsProject-ITI
